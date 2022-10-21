@@ -1,1 +1,1 @@
-# replit_practice
+# 2022-2 알고리즘 
